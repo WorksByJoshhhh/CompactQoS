@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+testdb/
+stalldb/
+rocks_run/
+rocks_run_r3/
+*.pyc

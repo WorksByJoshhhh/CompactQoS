@@ -1,0 +1,6 @@
+,calm_p99_ms_worst,calm_p99_ms_worst,calm_p99_ms_mean,calm_p99_ms_mean,calm_p50_ms_mean,calm_p50_ms_mean,calm_slow_s_mean,calm_slow_s_mean,calm_episodes_mean,calm_episodes_mean,flood_goodput,flood_goodput,jain_all,jain_all,dpu_share_flooder,dpu_share_flooder,decision_us,decision_us
+,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std
+policy,,,,,,,,,,,,,,,,,,
+cqos_dpu,894.671,512.072,459.946,255.763,0.678,0.006,1.498,0.603,2.2,0.758,0.241,0.01,0.814,0.005,0.587,0.027,36.49,1.04
+fairshare,2366.547,1009.105,1197.862,503.529,0.758,0.127,5.425,2.929,3.8,0.837,0.241,0.011,0.814,0.005,0.597,0.024,17.821,1.091
+fcfs,1288.9,508.287,658.788,253.268,0.707,0.018,3.274,1.702,3.5,1.0,0.255,0.012,0.821,0.006,0.598,0.027,5.581,0.268
